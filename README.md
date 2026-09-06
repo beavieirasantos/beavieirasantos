@@ -106,24 +106,7 @@ Aprender → Praticar → Criar → Compartilhar → Evoluir
 
 ---
 
-# Atualmente
-
-```text
-Engenharia de Software
-Desenvolvimento de Software
-Desenvolvimento Web
-Programação Orientada a Objetos
-Python
-HTML, CSS e JS
-SQL / Banco de Dados
-Git & GitHub
-Aprimorando meu Portfólio!
-```
-
----
-
 # Vamos nos conectar?
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/beatriz-vieira-03258b306">
