@@ -14,7 +14,7 @@
 
 # Sobre mim 👩🏻‍💻
 
-Olá! Eu sou **Beatriz Vieira**, estudante de **Engenharia de Software**, atualmente no **2º período**, e formada como **Técnica em Análise e Desenvolvimento de Sistemas**.
+Olá! Me chamo **Beatriz Vieira**, estudante de **Engenharia de Software**, atualmente no **2º período**, e formada como **Técnica em Análise e Desenvolvimento de Sistemas**.
 
 Tenho interesse em tecnologia, desenvolvimento de software e criação de soluções através da programação. Atualmente estou construindo minha experiência por meio de projetos acadêmicos, estudos independentes e prática constante.
 
