@@ -1,5 +1,3 @@
-## Beatriz Vieira
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:8B5CF6&height=180&section=header&text=Beatriz%20Vieira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Developer%20in%20Progress&descAlignY=58&descSize=18" width="100%"/>
