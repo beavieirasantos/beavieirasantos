@@ -22,8 +22,7 @@ Sou uma pessoa **dedicada, responsável e organizada**, com muita vontade de apr
 
 • Engenharia de Software — 2º período 🎓 <br>
 • Técnica em Análise e Desenvolvimento de Sistemas <br>
-• Curitiba - PR <br>
-• Em busca de crescimento e primeiras oportunidades na área de tecnologia
+• Em busca de crescimento e primeiras oportunidades na área de tecnologia!
 
 ---
 
