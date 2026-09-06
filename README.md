@@ -14,9 +14,9 @@
 
 # Sobre mim 👩🏻‍💻
 
-Olá! Me chamo **Beatriz Vieira**, estudante de **Engenharia de Software**, atualmente no **2º período**, e formada como **Técnica em Análise e Desenvolvimento de Sistemas**.
+Olá! Me chamo **Beatriz Vieira**, estudante de **Engenharia de Software** e formada como **Técnica em Análise e Desenvolvimento de Sistemas**.
 
-Tenho interesse em tecnologia, desenvolvimento de software e criação de soluções através da programação. Atualmente estou construindo minha experiência por meio de projetos acadêmicos, estudos independentes e prática constante.
+Tenho interesse em tecnologia, desenvolvimento de software e criação de soluções através da programação.
 
 Sou uma pessoa **dedicada, responsável e organizada**, com muita vontade de aprender e evoluir profissionalmente.
 
@@ -98,7 +98,7 @@ Estou utilizando este espaço para publicar meus projetos acadêmicos, exercíci
 
 Meu principal objetivo é **iniciar minha carreira profissional na área de tecnologia**, colocando em prática aquilo que estou aprendendo durante minha formação.
 
-Quero continuar desenvolvendo minhas habilidades técnicas, participar de projetos reais, aprender novas tecnologias e evoluir constantemente como profissional.
+Quero continuar desenvolvendo minhas habilidades técnicas, participar de projetos reais, aprender novas tecnologias e evoluir como profissional.
 
 ```text
 Aprender → Praticar → Criar → Compartilhar → Evoluir
@@ -107,6 +107,7 @@ Aprender → Praticar → Criar → Compartilhar → Evoluir
 ---
 
 # Vamos nos conectar?
+
 <div align="center">
 
 <a href="https://www.linkedin.com/in/beatriz-vieira-03258b306">
@@ -129,7 +130,7 @@ Aprender → Praticar → Criar → Compartilhar → Evoluir
 
 ### Obrigada por visitar meu perfil!
 
-**“The more I study, the more insatiable do I feel my genius for it to be.”**
+“The more I study, the more insatiable do I feel my genius for it to be.”
 
 — Ada Lovelace, 1843
 
