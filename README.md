@@ -12,7 +12,7 @@
 
 ---
 
-# Sobre mim 👩🏻‍💻
+# Sobre mim
 
 Olá! Me chamo **Beatriz Vieira**, estudante de **Engenharia de Software** e formada como **Técnica em Análise e Desenvolvimento de Sistemas**.
 
