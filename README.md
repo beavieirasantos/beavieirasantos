@@ -106,6 +106,12 @@ Aprender → Praticar → Criar → Compartilhar → Evoluir
 
 ---
 
+# Certificações
+
+[![GitHub Foundations](https://img.shields.io/badge/GitHub%20Foundations-Microsoft%20Learn-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://learn.microsoft.com/api/achievements/share/pt-br/BeatrizVieiradosSantos-4324/VSW8Q2JM?sharingId=A79841C7A6BC552)
+
+Trilha **GitHub Foundations** concluída na Microsoft Learn, cobrindo controle de versão com Git, trabalho com branches, pull requests, colaboração em repositórios e administração de contas e organizações no GitHub.
+
 # Vamos nos conectar?
 
 <div align="center">
