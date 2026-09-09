@@ -136,10 +136,6 @@ Trilha **GitHub Foundations** concluída na Microsoft Learn, cobrindo controle d
 
 ### Obrigada por visitar meu perfil!
 
-“The more I study, the more insatiable do I feel my genius for it to be.”
-
-— Ada Lovelace, 1843
-
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:4F46E5&height=100&section=footer"/>
